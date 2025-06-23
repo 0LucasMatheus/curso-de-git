@@ -1,3 +1,9 @@
 oi tudo bem
 isso e um teste do curso de git
 
+ls -> lista arquivos
+cd -> navega entre diretorios
+pwd -> mostra diretorio atual
+cat -> exibe conteudo do arquivo
+rm -> remove arquivo ou diretorio
+

@@ -1,0 +1,4 @@
+git init .    -> cria um repo git na pasta aual
+git status   -> mostra os status do trabalho de cada arquivo
+git add nome-do-arquvo  -> adiciona o arquivo para ser commitado
+git commit -m "msg"   -> faz commit fo que estava para ser commitado
