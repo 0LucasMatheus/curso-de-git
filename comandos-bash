@@ -1,4 +1,5 @@
-oi tudo bem
+oi tudo bem git
+secundaria
 isso e um teste do curso de git
 
 ls -> lista arquivos
@@ -7,6 +8,3 @@ pwd -> mostra diretorio atual
 cat -> exibe conteudo do arquivo
 rm -> remove arquivo ou diretorio
 rm -rf -> remove de forma recursiva e forçada todos diretorios
-
-
-
