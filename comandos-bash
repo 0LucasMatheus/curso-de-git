@@ -1,6 +1,8 @@
 oi tudo bem git
 isso e um teste do curso de git
 
+tetsando lunomeu
+
 ls -> lista arquivos
 cd -> navega entre diretorios
 pwd -> mostra diretorio atual
@@ -8,3 +10,4 @@ cat -> exibe conteudo do arquivo
 rm -> remove arquivo ou diretorio
 rm -rf -> remove de forma recursiva e forçada todos diretorios
 
+testando hahaha
