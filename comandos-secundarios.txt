@@ -3,3 +3,6 @@ esse arquvo contem comandos secundarios de git
 primeiro comando
 segundo  comando
 terceito comando
+
+comando mais genericos
+comando estranhos
