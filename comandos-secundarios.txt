@@ -10,3 +10,4 @@ comando estranhos
 masi comandos
 
 segundo comando secundario
+terceiro comando secundario
