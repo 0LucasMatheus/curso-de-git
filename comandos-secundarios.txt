@@ -6,3 +6,5 @@ terceito comando
 
 comando mais genericos
 comando estranhos
+
+masi comandos
