@@ -5,6 +5,7 @@ tetsando lunomeu
 
 ls -> lista arquivos
 cd -> navega entre diretorios
+
 pwd -> mostra diretorio atual
 cat -> exibe conteudo do arquivo
 rm -> remove arquivo ou diretorio
