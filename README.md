@@ -6,3 +6,4 @@ o teo e maneiro
 nova linha para PR
 
 esse curso ta top demais!
+tenho aprendido  muitas coisas e sobre como trabalhar com git flow
